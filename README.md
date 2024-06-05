@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justinas</h1>
-<h3 align="center">A passionate game and web developer</h3>
+<h3 align="center">A passionate <b>Game</b> and <b>Web Developer</b></h3>
 
 - 🌱 I’m currently learning **React.js, Next.js, JavaScript, TypeScript and Tailwind CSS**
 
