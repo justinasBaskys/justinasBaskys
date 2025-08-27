@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **various projects, mainly game jams and websites**
 
-- 👨‍💻 All of my projects are available at [https://justinasbaskys.co.uk/](https://justinasbaskys.com/)
+- 👨‍💻 All of my projects are available at [https://justinasbaskys.com/](https://justinasbaskys.com/)
 
 - 📫 How to reach me **justinas.baskys@gmail.com**
 
